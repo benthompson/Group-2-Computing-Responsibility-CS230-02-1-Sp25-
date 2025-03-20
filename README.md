@@ -137,3 +137,105 @@ around Mindwells continuing operations.
 2024),” Justia Law, 2024. https://law.justia.com/cases/federal/appellate-
 courts/ca9/22-16507/22-16507-2024-06-24.html
 ‌
+
+Objective and Key Result (OKR)
+Objective: Enhance user engagement and retention by ensuring Mindwell provides effective
+and personalized mental health guidance.
+Key Result: Achieve an 80% user satisfaction rate, measured through post-session feedback
+surveys and app store reviews on Google Play and Apple App Store. Maintain a 50% monthly
+active user retention rate within the first year to ensure long-term engagement and
+effectiveness.
+Stakeholders and Impact
+• Users: Expect accurate, empathetic, and helpful responses.
+• Healthcare Professionals: Might be skeptical of AI mental health tools and their efficacy.
+• Regulators: Have concerns about misinformation and ethical AI use.
+• Company Developers: Must balance AI adaptability with ethical considerations.
+Metrics with Experimentation.
+To measure the success of our OKR, we will implement:
+1. User Satisfaction Survey [4]
+a. b. After each interaction, users will rate responses on a scale from 1-10.
+Metrics: Average satisfaction rating (target 8/10 or higher).
+c. Example survey questions:
+i. "Did this response help you feel better?" (Yes/No)
+ii. "On a scale of 1-10, how helpful was this advice?"
+iii. "Would you use Mindwell again for mental health support?" (Yes/No)
+iv. "What could be improved in your experience?" (Open-ended q
+2. Retention Rate Tracking
+a. Metrics: Track Monthly Active Users (MAU) through login frequency and
+interaction rates.
+b. Sucess metric: 50% of users returning monthly after first use.
+c. Additional tracking parameters:
+i. Session duration: how long the users engage with the chatbot/app per
+session.
+ii. iii. Frequency of return: number of interactions per week.
+Feature utilization: which tools within the app are more frequently
+used.
+iv. Drop-off points: where users disengage from conversations.
+3. A/B Testing [4]
+• Experiment: Compare different response models:
+o Empathetic vs. Analytical response styles to assess which improves
+user satisfaction.
+o Structured vs. Conversational styles to measure user engagement.
+o Response length variations to determine optimal content consumption
+for retention.
+• Metrics: Analyze test results based on:
+o Retention rates of different user segments.
+o Completion rates of chatbot interactions.
+o Changes in user satisfaction scores based on testing variables.
+Reference: [4]
+Ethical Impacts and Issues
+Potential Ethical Concerns:
+1. 2. 3. Misinformation & AI Hallucination: AI-generated responses may provide incorrect or
+misleading mental health advice, posing risks to users.
+Data Privacy & Confidentiality: Users share sensitive information that must be securely
+handled.
+Bias in AI Recommendations: If training data is not diverse, recommendations may not
+be equitable for all users.
+Real-World Case Reference:
+• BetterHelp Lawsuit Comparison: BetterHelp, an online mental health service,
+faced a lawsuit for allegedly sharing sensitive user data with third-party advertisers
+without proper consent. This case underscores the critical importance of data
+privacy and transparency in AI-driven mental health solutions. Unlike BetterHelp,
+Mindwell prioritizes end-to-end encryption, explicit user consent mechanisms, and
+strict data-sharing policies to ensure compliance with ethical and legal standards.
+Expected Ethical Impact Risk Table
+Stakeholder Financial Risk Privacy Risk Conflicting
+Interest Risk
+Violation of
+Rights Risk
+Users Low High Mid High
+Company High Mid Mid Low
+Regulator Low Low High Mid
+Analysis of Ethical Risks
+• Users: The chatbot must not misdiagnose or suggest actions that could harm users
+(e.g., self-harm responses). Ensuring transparency and disclaimers is essential.
+• Company: If users are harmed due to misinformation, lawsuits could arise,
+impacting financial stability.
+• Regulators: Without FDA oversight, ethical AI use must be self-regulated with clear
+disclaimers.
+• Privacy & Data Security (BetterHelp Case Comparison): The BetterHelp lawsuit
+demonstrates the reputational and legal damage that can result from mishandling
+user data. Mindwell avoids similar risks by implementing privacy-first AI design,
+clear opt-in policies, and a commitment to never sell user data to third parties.
+Ethical Safeguards
+Proposed Solutions to Mitigate Risks
+1. Transparency & Disclaimers
+a. Display disclaimers clarifying that Mindwell is not a replacement for
+professional help.
+b. Offer emergency resources for severe cases (e.g., suicide hotlines).
+2. Human-in-the-Loop Model
+a. Implement an option for flagged cases where human counselors can review
+and intervene when necessary.
+3. Bias Mitigation Strategies
+a. Train AI on diverse datasets, ensuring representation across demographics.
+b. Regular audits to detect bias and adjust responses accordingly.
+4. Secure Data Handling
+a. Implement end-to-end encryption for user conversations.
+b. Provide opt-out options for data collection.
+c. Ensure data is stored securely and never shared with third parties for
+advertising or monetization, in contrast to the BetterHelp lawsuit case.
+5. Compliance with global data privacy regulations such as CCPA and HIPAA-
+equivalent standards ensures secure handling of sensitive data. [5] [6]
+
+
+
